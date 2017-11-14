@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 int main () {
 	int i=1,a;
@@ -10,4 +9,11 @@ int main () {
 	i=i+1;
 	}
 	while (i<=10);
-}
+kjkjjk
+kk+òk
+oli
++juhiohse
+fsyutfweuftsdyitfsdtfsdfsd
+sdf+`sdpf´sdlgsdfplgsdf
+sdlñkñsdlfgksdflñgkdfsñlgklñdfskg
+;;;
